@@ -1,6 +1,9 @@
 # 【Unity】ニフクラmobile backend を体験しよう！
 ![画像1](/readme-img/001.png)
 
+* 本サンプルは不具合がある場合、issue等から報告いただくようにお願いいたします
+* 作成日：2016/7（更新日：2020/3）
+
 ## 概要
 * Unityで作成したiOSアプリから、[ニフクラmobile backend](https://mbaas.nifcloud.com/)へデータ登録を行うサンプアプリです
 
@@ -22,6 +25,7 @@
 * Xcode 11.6
 * Unity 2020.1.8f1
 * iphone 7 14.0
+* Unity SDK v4.0.4
 
 ※上記内容で動作確認をしています。
 
