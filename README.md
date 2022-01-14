@@ -19,13 +19,13 @@
 
 ## 動作環境
 
-* MacOS Mojave v10.15.6 (Catalina)
-* Android studio 4.0
-* LG V20 plus (OS 8.0)
-* Xcode 11.6
-* Unity 2020.1.8f1
-* iphone 7 14.0
-* Unity SDK v4.0.4
+* MacOS Big Sur v11.6 (20G165)
+* Android Studio Arctic Fox (2020.3.1)
+* Android 12 (Simulator)
+* Xcode 13.0
+* Unity 2020.3.20f1 (LTS)
+* iPhone X 15.0.2
+* Unity SDK v4.4.1
 
 ※上記内容で動作確認をしています。
 
